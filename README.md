@@ -66,7 +66,7 @@ Este projeto é um CRUD web para gerenciamento de clientes em um petshop, desenv
 1.  **Página de Listagem de Clientes**:
     -   Lista todos os clientes cadastrados.
     -   Botões para editar e excluir.
-    -   
+      
 2.  **Cadastro de Clientes**:
     -   Formulário para adicionar novos clientes.
     -   Validações básicas no front-end.
